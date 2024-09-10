@@ -1,4 +1,5 @@
-import tkinter as Tkinter
+
+qsqgdwgdkwqgdkuwgduqgydvshjimport tkinter as Tkinter
 from datetime import datetime
 
 counter = 66600
